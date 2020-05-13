@@ -21,7 +21,7 @@ You can find the data set here, but note that it has been reduced from almost 30
 We're specifically interested in posts whose titles begin with either Ask HN or Show HN. Users submit Ask HN posts to ask the Hacker News community a specific question. Below are a couple examples:
 
     Ask HN: How to improve my personal website? 
-     Ask HN: Am I the only one outraged by Twitter shutting down share counts? 
+    Ask HN: Am I the only one outraged by Twitter shutting down share counts? 
     Ask HN: Aby recent changes to CSS that broke mobile?
 
 
@@ -42,14 +42,12 @@ We'll compare these two types of posts to determine the following:
 #### about points
 
     Do Ask HN or Show HN receive more points on average?
-
     Do posts created at a certain time receive more points on average?
 
 
 #### about posts
 
     Do Ask HN or Show HN receive more posts on average?
-
     Do posts created at a certain time receive more posts on average?
 
 I divided this project in the following parts, one complemented with other one:
@@ -60,7 +58,7 @@ I divided this project in the following parts, one complemented with other one:
 
 ## GOALS
    * Work with Datetime library
-   * work only Python command
+   * Work only Python command
 
 ## Results 
 
