@@ -2,7 +2,7 @@
 
 In this project, we'll work with a data set of submissions to popular technology site Hacker News.
 
-![image.png](attachment:image.png)
+![Hacker News Posts](https://github.com/sandramalaquias/Hacker-Posts/blob/master/hac1.png)
 
 
 
@@ -41,17 +41,73 @@ We'll compare these two types of posts to determine the following:
 
 #### about points
 
-    Do Ask HN or Show HN receive more points on average?___
+    Do Ask HN or Show HN receive more points on average?
 
     Do posts created at a certain time receive more points on average?
 
 
 #### about posts
 
-    Do Ask HN or Show HN receive more posts on average?___
+    Do Ask HN or Show HN receive more posts on average?
 
     Do posts created at a certain time receive more posts on average?
 
+I divided this project in the following parts, one complemented with other one:
+   * analyse files for comments
+   * analyse files for points
+   * analyse files for posts
+   
 
+## GOALS
+   * Work with Datetime library
+   * work only Python command
 
+## Results 
+
+#### To "Comments"
+
+**Do Ask HN or Show HN receive more comments on average?**
+> * Avg Ask HN Coments= 0.67
+> * Avg Show HN Coments= 0.33
+
+> On average we can consider that people tend to participate more in "Ask HN" subjects than in "Show HN". Maybe "Show HN" is about a kind of author's contribuition and does not necessarily need a comment.
+
+**Do posts created at a certain time receive more comments on average?**
+> * At 15:00 has 38.59% average comments per post.
+> * At 02:00 has 23.81% average comments per post
+> * At 20:00 has 21.52% average comments per post
+> * At 16:00 has 16.80% average comments per post
+> * At 21:00 has 16.01% average comments per post
+
+#### To "Points"
+
+**Do Ask HN or Show HN receive more points on average?**
+> * Avg Ask Points= 0.45
+> * Avg Show Points= 0.55>
+
+> On average we can consider that don't have so many difference between Show and ASK HN. Unlike the previous one, the posts on author's contribuition tend to receive more points.
+
+**Do posts created at a certain time receive more points on average?**
+>* At 23:00 has 42.39% average points per post
+>* At 12:00 has 41.69% average points per post
+>* At 22:00 has 40.35% average points per post
+>* At 00:00 has 37.84% average points per post
+>* At 18:00 has 36.31% average points per post
+
+#### To "Posts"
+
+**Do Ask HN or Show HN receive more posts on average?**
+> * Avg Ask Posts = 0.60
+> * Avg Show Posts = 0.40 
+
+> On average, ASK HN has more posts that Show Posts, what make sense.
+
+**Do posts created at a certain time receive more posts on average?** 
+>* At 17:00 has 6.78% avarage posts
+>* At 16:00 has 6.48% avarage posts
+>* At 18:00 has 6.24% avarage posts
+>* At 15:00 has 6.14% avarage posts
+>* At 14:00 has 5.73% avarage posts
+
+>Don't have so many percent difference along hours.
 
